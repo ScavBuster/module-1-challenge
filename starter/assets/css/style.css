@@ -28,7 +28,7 @@ body {
 
 .header div {
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', ''Calibri'', 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     font-size: 20px;
     margin-right: 20px;
     padding-top: 15px;
@@ -48,7 +48,7 @@ a {
     text-decoration: none;
 }
 
-p {
+blockquote {
     font-size: 16px;
 }
 
