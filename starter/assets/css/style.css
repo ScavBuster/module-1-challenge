@@ -17,12 +17,10 @@ body {
 
 }
 
-.header h1 {
+.header h1,
+.header h1 .seo {
     display: inline-block;
     font-size: 48px;
-}
-
-.header h1 .seo {
     color: #d9dcd6;
 }
 
@@ -34,11 +32,9 @@ body {
     padding-top: 15px;
 }
 
-.header nav ul {
+.header nav ul,
+.header nav ul li  {
     list-style-type: none;
-}
-
-.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -133,7 +129,9 @@ blockquote {
     text-align: center;
 }
 
-.footer h4 {
+.footer h4,
+#copy-caption 
+{
     font-size: 20px;
     color: black;
 }
